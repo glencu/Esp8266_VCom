@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.debug.1964580504/PATH/delimiter=\:
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.debug.1964580504/PATH/operation=append
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.debug.1964580504/PATH/value=/share/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.debug.1964580504/append=true
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.debug.1964580504/appendContributed=true
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.release.1541354418/PATH/delimiter=\:
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.release.1541354418/PATH/operation=append
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.release.1541354418/PATH/value=/share/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/bin
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.release.1541354418/append=true
+environment/project/org.eclipse.cdt.cross.arm.gnu.sourcery.linux.elf.release.1541354418/appendContributed=true
